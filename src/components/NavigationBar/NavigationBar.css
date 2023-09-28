@@ -1,0 +1,7 @@
+.navigation-bar {
+    display: flex;
+    justify-content: center;
+    gap: 16px;
+    text-decoration: none;
+    padding: 12px 0 ;
+}

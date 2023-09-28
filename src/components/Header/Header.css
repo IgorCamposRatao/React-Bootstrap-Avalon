@@ -1,0 +1,29 @@
+header {
+    background-color: #9CD9C2;
+}
+
+header .header-nav1 {
+    padding: 12px;
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+  
+    border-bottom: 1px solid #fff;
+
+}
+
+header .logo-avalon {
+    height: 50px;
+}
+
+.header-search-bar {
+    width: 300px;
+}
+
+header .header-nav-icons {
+
+    display: flex;
+    gap: 10px;
+
+}
